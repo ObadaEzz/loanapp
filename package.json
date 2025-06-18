@@ -1,0 +1,22 @@
+{
+  "name": "loan-approval-system",
+  "version": "1.0.0",
+  "description": "Machine Learning based Loan Approval System",
+  "main": "api/index.py",
+  "scripts": {
+    "start": "python api/index.py",
+    "dev": "python flask_app.py"
+  },
+  "keywords": [
+    "machine-learning",
+    "flask",
+    "python",
+    "loan-approval",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
